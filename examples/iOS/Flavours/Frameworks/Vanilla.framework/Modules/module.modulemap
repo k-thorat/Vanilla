@@ -1,0 +1,6 @@
+framework module Vanilla {
+    umbrella header "Vanilla.h"
+
+    export *
+    module * { export * }
+}
